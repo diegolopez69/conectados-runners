@@ -1,0 +1,428 @@
+{
+  "bible": [
+    {
+      "type": "test",
+      "question": "¿A quién estaba destinado el evangelio de Mateo?",
+      "answers": [
+        ["A", "Los gentiles", false],
+        ["B", "Los judíos", true],
+        ["C", "Los romanos", false],
+        ["D", "Los griegos", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿A Quién estaba dedicado el evangelio de Marcos?",
+      "answers": [
+        ["A", "Los filipenses", false],
+        ["B", "Los romanos", false],
+        ["C", "Los judíos", false],
+        ["D", "Los gentiles", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué aspecto de la persona de Jesús enfatiza el evangelio de Lucas?",
+      "answers": [
+        ["A", "El carisma de Jesús", false],
+        ["B", "Los milagros que Jesús realizó", false],
+        ["C", "Cristo como el salvador del hombre", true],
+        ["D", "La Deidad de Cristo", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué aspecto de la persona de Jesús enfatiza el evangelio Juan?",
+      "answers": [
+        ["A", "Cristo como el Verbo de Dios", true],
+        ["B", "Las obras de caridad de Jesús", false],
+        ["C", "El linaje de Cristo desde Abraham", false],
+        ["D", "Los milagros de Jesús", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuáles son los animales que simbolizan los cuatro evangelios en relación con la visión de Ezequiel, en orden( Mateo, Marcos,Lucas y Juan)?",
+      "answers": [
+        ["A", "Buey, León, Hombre y Cordero", false],
+        ["B", "Hombre, León, Buey y Águila", true],
+        ["C", "Águila, Cordero, Buey y Hombre", false],
+        ["D", "León, Águila, Hombre y buey", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál es el libro más antiguo de la Biblia?",
+      "answers": [
+        ["A", "Génesis", false],
+        ["B", "Deuteronomio", false],
+        ["C", "Job", true],
+        ["D", "Proverbios", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál de estas frases no es bíblica?",
+      "answers": [
+        ["A", "Ámate a ti mismo.", true],
+        ["B", "Ama a Dios por encima de todas las cosas.", false],
+        ["C", "Toma tu cruz cada día y sígueme", false],
+        ["D", "Perdona a tu hermano hasta 70 veces 7", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cúal es la raíz de todos los males según la Biblia?",
+      "answers": [
+        ["A", "El amar al prójimo", false],
+        ["B", "La baja autoestima", false],
+        ["C", "El amor al dinero", true],
+        ["D", "Hacer caso a Satanás", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "Dios nos ha dado un espíritu de...",
+      "answers": [
+        ["A", "Fuego, gloria y poder.", false],
+        ["B", "profecías, nuevas lenguas y amor.", false],
+        ["C", "alabanza, dominio propio y valor.", false],
+        ["D", "amor, poder y dominio propio.", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "Al clamar \"Dios mío, Dios mío, ¿Por qué me has abandonado?\" en la cruz,Jesús está llevando a cumplimiento la profecía escrita en...",
+      "answers": [
+        ["A", "Salmo 35", false],
+        ["B", "Isaías 15", false],
+        ["C", "Salmo 22", true],
+        ["D", "Jeremías 28", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál de estos NO es uno de los 10 mandamientos?",
+      "answers": [
+        ["A", "Siempre darás limosna.", true],
+        ["B", "No matarás.", false],
+        ["C", "No te harás imágenes delante de mí.", false],
+        ["D", "No codiciarás la mujer de tu prójimo.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál de estos NO es uno de los libertadores de Israel en el libro de Jueces?",
+      "answers": [
+        ["A", "Sansón", false],
+        ["B", "Jeroboam", true],
+        ["C", "Aod", false],
+        ["D", "Abdón", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "Después de la separación, ¿Qué tribus formaban el reino de Judá?",
+      "answers": [
+        ["A", "Judá y Zabulón", false],
+        ["B", "Judá y Benjamín", true],
+        ["C", "Judá y Efraín", false],
+        ["D", "Judá y Neftalí", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Debido al pecado de qué reyes se dividió el reino de Israel?",
+      "answers": [
+        ["A", "Roboán y Salomón", true],
+        ["B", "Salomón y Abdías", false],
+        ["C", "Salomón y David", false],
+        ["D", "Roboán y Absalón", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué significa el nombre de Dios, YAHVÉ/JEHOVÁ?",
+      "answers": [
+        ["A", "Todopoderoso", false],
+        ["B", "Rey de reyes", false],
+        ["C", "Yo Soy El Que Soy", true],
+        ["D", "El Dios Que Provee", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué personaje bíblico lucho contra Dios, y después de esto Dios le cambió el nombre y le convirtio en uno de los patriarcas de Su pueblo?",
+      "answers": [
+        ["A", "Isaac", false],
+        ["B", "Moisés", false],
+        ["C", "Abraham", false],
+        ["D", "Jacob", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál de estas expresiones NO representa a Jesús?",
+      "answers": [
+        ["A", "Hijo del hombre", false],
+        ["B", "Profeta del señor", true],
+        ["C", "Verbo de Dios", false],
+        ["D", "Cordero de Dios", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Quién fué el escritor de la carta a los Hebreos?",
+      "answers": [
+        ["A", "Pablo", false],
+        ["B", "Pedro", false],
+        ["C", "No se sabe con certeza, pero se piensa que fue Pablo", true],
+        ["D", "No se sabe con certeza, pero se piensa que fue Pedro", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Quién fue el escritor de Apocalipsis?",
+      "answers": [
+        ["A", "Juan", true],
+        ["B", "Jacobo", false],
+        ["C", "Pablo", false],
+        ["D", "Pedro", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿De quién NO fue descendiente Jesús?",
+      "answers": [
+        ["A", "Rahab", false],
+        ["B", "Booz", false],
+        ["C", "Zorobabel", false],
+        ["D", "Isacar", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál de todas estas cosas aprendió Jesús?",
+      "answers": [
+        ["A", "Obediencia", true],
+        ["B", "Santidad", false],
+        ["C", "Conocimiento", false],
+        ["D", "Firmeza", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué fué lo primero que hizo Cristo después de ser bautizado?",
+      "answers": [
+        ["A", "Predicar que el Reino de Dios se había acercado.", false],
+        [
+          "B",
+          "Comenzar su ministerio sanando enfermos y obrando milagros.",
+          false
+        ],
+        [
+          "C",
+          "Ir al desierto a ser tentado por Satanás durante 40 días.",
+          true
+        ],
+        ["D", "Ir a buscar y llamar a sus primeros discípulos.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿En qué epoca vivió el profeta Zacarías?",
+      "answers": [
+        ["A", "En el reino del norte, Israel.", false],
+        ["B", "En el reino del sur, Judá.", false],
+        ["C", "En la época del exilio en  Babilonia.", false],
+        ["D", "En la época de la restauración del templo de Jerusalén.", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿En cuántos días creó Dios el universo?",
+      "answers": [
+        ["A", "3", false],
+        ["B", "7", false],
+        ["C", "6", true],
+        ["D", "12", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Quién fué el líder de Israel que hizo entrar al pueblo en la Tierra Prometida?",
+      "answers": [
+        ["A", "Moisés", false],
+        ["B", "Caleb", false],
+        ["C", "Aarón", false],
+        ["D", "Josué", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuántas vueltas tuvo que dar el pueblo de Israel a la ciudad de Jericó antes de conquistarla?",
+      "answers": [
+        ["A", "7", false],
+        ["B", "13", true],
+        ["C", "14", false],
+        ["D", "12", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Según el orden de quién es Jesucristo nuestro Sumo Sacerdote?",
+      "answers": [
+        ["A", "Melquisedec", false],
+        ["B", "Abraham", false],
+        ["C", "Aarón", true],
+        ["D", "Leví", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál es la reacción de Jonás cuando Dios lo envía a predicar arrepentimiento a Nínive?",
+      "answers": [
+        ["A", "Toma un barco y huye en dirección a Tarsis.", true],
+        ["B", "Toma un barco y huye en dirección a Jerusalén.", false],
+        ["C", "Obedece y toma un barco hacia Nínive.", false],
+        ["D", "Obedece y va caminando hacia Nínive.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuántos guerreros componen el grupo de \"los valientes de david\"?",
+      "answers": [
+        ["A", "40", false],
+        ["B", "24", false],
+        ["C", "60", false],
+        ["D", "54", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué es lo que debemos hacer con la tentación según la Biblia?",
+      "answers": [
+        ["A", "Enfrentarla.", false],
+        ["B", "Huir de ella.", true],
+        ["C", "Resistirla.", false],
+        ["D", "Dominarla.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál es la primera respuesta de Isaías al ver la gloria de Dios en Isaías 6?",
+      "answers": [
+        ["A", "Te doy toda la gloria, ¡oh, Padre Eterno!", false],
+        ["B", "Heme aquí, envíame a mí.", false],
+        ["C", "¡Ay de mí!, que soy hombre muerto.", true],
+        [
+          "D",
+          "La virgen concebirá, y dará a luz a un nño, que tendrá por nombre Emanuel. ",
+          false
+        ]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál era el oficio de David antes de ser ungido por Samuel como nuevo rey de Israel?",
+      "answers": [
+        ["A", "Pastor de ovejas.", true],
+        ["B", "Tañedor de arpa.", false],
+        ["C", "Pastor de vacas.", false],
+        ["D", "Agricultor.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuál es el llamado de Jesús que tenemos que obedecer para entrar en el Reino de Dios?",
+      "answers": [
+        ["A", "Creed y confiad.", false],
+        ["B", "Arrepentíos y creed.", true],
+        ["C", "Creed y perseverad.", false],
+        ["D", "Arrepentíos y adorad.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué dijo Jesús que debemos hacer los cristianos al ayunar?",
+      "answers": [
+        ["A", "Dar muestras de arrepentimiento en público.", false],
+        [
+          "B",
+          "Mostrar que estamos ayunando para que otros puedan ver nuestra devoción.",
+          false
+        ],
+        [
+          "C",
+          "Arreglarnos bien para que nadie note que estamos ayunando.",
+          true
+        ],
+        [
+          "D",
+          "Clamar a Dios y orar continuamente allí donde estemos para extender el evangelio.",
+          false
+        ]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "El cristianismo es...",
+      "answers": [
+        ["A", "Un camino más para llegar a Dios", false],
+        ["B", "El camino más seguro para ir al cielo.", false],
+        ["C", "El único camino para tener una relación con Dios.", true],
+        ["D", "Los principios y normas que nos ayudarán a ir al cielo.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "Hablando de la Biblia,¿Cuántos hombres inspirados por Dios la escribieron y a lo largo de cuántos años?",
+      "answers": [
+        ["A", "40 hombres a lo largo de 1600 años.", true],
+        ["B", "42 hombres a lo largo de 1200 años.", false],
+        ["C", "40 hombres a lo largo de 1300 años.", false],
+        ["D", "38 hombres a lo largo de 1600 años.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué es necesario para ver el Reino de Dios?",
+      "answers": [
+        ["A", "Dar frutos de arrepentimiento.", false],
+        ["B", "Nacer de nuevo.", true],
+        ["C", "Creer en Dios.", false],
+        ["D", "Ser buena persona.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué tres cosas permanecen, y cuál es la más importante?",
+      "answers": [
+        ["A", "Fe, esperanza y amor. La fe.", false],
+        ["B", "Fe, perserverancia y amor. El amor.", false],
+        ["C", "Fe, confianza y gozo. La confianza.", false],
+        ["D", "Fe, esperanza y amor. El amor.", true]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Cuántas copias de los manuscritos del Nuevo Testamento se conservan en la actualidad?",
+      "answers": [
+        ["A", "2000 aprox.", false],
+        ["B", "6000 aprox.", true],
+        ["C", "3000 aprox.", false],
+        ["D", "500 aprox.", false]
+      ]
+    },
+    {
+      "type": "test",
+      "question": "¿Qué hace Jesús con la Ley del Antiguo Testamento?",
+      "answers": [
+        ["A", "La invalida.", false],
+        ["B", "La cambia por la gracia.", false],
+        ["C", "La lleva a su cumplimiento.", true],
+        ["D", "La abroga.", false]
+      ]
+    }
+  ]
+}
